@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ukiepro-tt/static/css/main.1ef3a49a.css",
+    "main.js": "/ukiepro-tt/static/js/main.a5bba6e5.js",
+    "index.html": "/ukiepro-tt/index.html",
+    "main.1ef3a49a.css.map": "/ukiepro-tt/static/css/main.1ef3a49a.css.map",
+    "main.a5bba6e5.js.map": "/ukiepro-tt/static/js/main.a5bba6e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ef3a49a.css",
+    "static/js/main.a5bba6e5.js"
+  ]
+}
